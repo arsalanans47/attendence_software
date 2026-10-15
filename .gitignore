@@ -14,6 +14,7 @@ dist/
 # Local secrets
 .env
 .env.*
+!.env.example
 
 # Tool caches
 .pytest_cache/
